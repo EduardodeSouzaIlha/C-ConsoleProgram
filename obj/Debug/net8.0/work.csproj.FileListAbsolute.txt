@@ -1,0 +1,14 @@
+/home/eddy/projects/c#/work/bin/Debug/net8.0/work
+/home/eddy/projects/c#/work/bin/Debug/net8.0/work.deps.json
+/home/eddy/projects/c#/work/bin/Debug/net8.0/work.runtimeconfig.json
+/home/eddy/projects/c#/work/bin/Debug/net8.0/work.dll
+/home/eddy/projects/c#/work/bin/Debug/net8.0/work.pdb
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.GeneratedMSBuildEditorConfig.editorconfig
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.AssemblyInfoInputs.cache
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.AssemblyInfo.cs
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.csproj.CoreCompileInputs.cache
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.dll
+/home/eddy/projects/c#/work/obj/Debug/net8.0/refint/work.dll
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.pdb
+/home/eddy/projects/c#/work/obj/Debug/net8.0/work.genruntimeconfig.cache
+/home/eddy/projects/c#/work/obj/Debug/net8.0/ref/work.dll
